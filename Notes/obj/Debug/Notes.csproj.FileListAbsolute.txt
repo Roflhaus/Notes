@@ -12,3 +12,17 @@ C:\Users\djurek\Google Drive\Visual Studio 2015\Projects\Notes\Notes\obj\Debug\N
 C:\Users\djurek\Google Drive\Visual Studio 2015\Projects\Notes\Notes\obj\Debug\Notes.csproj.GenerateResource.Cache
 C:\Users\djurek\Google Drive\Visual Studio 2015\Projects\Notes\Notes\obj\Debug\Notes.exe
 C:\Users\djurek\Google Drive\Visual Studio 2015\Projects\Notes\Notes\obj\Debug\Notes.pdb
+C:\Users\djurek\Useful Junk\Repos\Daniel Jurek\Scratch\Notes\bin\Debug\Notes.exe.config
+C:\Users\djurek\Useful Junk\Repos\Daniel Jurek\Scratch\Notes\obj\Debug\Notes.exe
+C:\Users\djurek\Useful Junk\Repos\Daniel Jurek\Scratch\Notes\obj\Debug\Notes.pdb
+C:\Users\djurek\Useful Junk\Repos\Daniel Jurek\Scratch\Notes\bin\Debug\Notes.exe
+C:\Users\djurek\Useful Junk\Repos\Daniel Jurek\Scratch\Notes\bin\Debug\Notes.pdb
+C:\Users\djurek\Useful Junk\Repos\Daniel Jurek\Scratch\Notes\obj\Debug\Notes.csprojResolveAssemblyReference.cache
+C:\Users\djurek\Useful Junk\Repos\Daniel Jurek\Scratch\Notes\obj\Debug\MainWindow.g.cs
+C:\Users\djurek\Useful Junk\Repos\Daniel Jurek\Scratch\Notes\obj\Debug\App.g.cs
+C:\Users\djurek\Useful Junk\Repos\Daniel Jurek\Scratch\Notes\obj\Debug\Notes_MarkupCompile.cache
+C:\Users\djurek\Useful Junk\Repos\Daniel Jurek\Scratch\Notes\obj\Debug\Notes_MarkupCompile.lref
+C:\Users\djurek\Useful Junk\Repos\Daniel Jurek\Scratch\Notes\obj\Debug\MainWindow.baml
+C:\Users\djurek\Useful Junk\Repos\Daniel Jurek\Scratch\Notes\obj\Debug\Notes.g.resources
+C:\Users\djurek\Useful Junk\Repos\Daniel Jurek\Scratch\Notes\obj\Debug\Notes.Properties.Resources.resources
+C:\Users\djurek\Useful Junk\Repos\Daniel Jurek\Scratch\Notes\obj\Debug\Notes.csproj.GenerateResource.Cache
